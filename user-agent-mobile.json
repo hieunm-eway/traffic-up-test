@@ -1,0 +1,1490 @@
+[
+  {
+    "device_name": "Apple iPad 10.2",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 13_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1",
+    "width": 1620,
+    "height": 2160,
+    "viewport_width": 810,
+    "viewport_height": 1080
+  },
+  {
+    "device_name": "Apple iPad Air",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1",
+    "width": 1668,
+    "height": 2224,
+    "viewport_width": 834,
+    "viewport_height": 1112
+  },
+  {
+    "device_name": "Apple iPad Air (2020)",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1",
+    "width": 1640,
+    "height": 2360,
+    "viewport_width": 820,
+    "viewport_height": 1180
+  },
+  {
+    "device_name": "Apple iPad Mini",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A406 Safari/8536.25",
+    "width": 1536,
+    "height": 2048,
+    "viewport_width": 768,
+    "viewport_height": 1024
+  },
+  {
+    "device_name": "Apple iPad Pro 11",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1",
+    "width": 1668,
+    "height": 2388,
+    "viewport_width": 834,
+    "viewport_height": 1194
+  },
+  {
+    "device_name": "Apple iPad Pro 12.9",
+    "user_agent": "Mozilla/5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Mobile/15E148 Safari/604.1",
+    "width": 2048,
+    "height": 2732,
+    "viewport_width": 1024,
+    "viewport_height": 1366
+  },
+  {
+    "device_name": "Apple iPhone 11",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1",
+    "width": 828,
+    "height": 1792,
+    "viewport_width": 414,
+    "viewport_height": 896
+  },
+  {
+    "device_name": "Apple iPhone 11 Pro",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1",
+    "width": 1125,
+    "height": 2436,
+    "viewport_width": 375,
+    "viewport_height": 812
+  },
+  {
+    "device_name": "Apple iPhone 11 Pro Max",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1",
+    "width": 1242,
+    "height": 2688,
+    "viewport_width": 414,
+    "viewport_height": 896
+  },
+  {
+    "device_name": "Apple iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1",
+    "width": 1170,
+    "height": 2532,
+    "viewport_width": 390,
+    "viewport_height": 844
+  },
+  {
+    "device_name": "Apple iPhone 12 mini",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Apple iPhone 12 Pro",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1",
+    "width": 1170,
+    "height": 2532,
+    "viewport_width": 390,
+    "viewport_height": 844
+  },
+  {
+    "device_name": "Apple iPhone 12 Pro Max",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1",
+    "width": 1284,
+    "height": 2778,
+    "viewport_width": 428,
+    "viewport_height": 926
+  },
+  {
+    "device_name": "Apple iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1",
+    "width": 1170,
+    "height": 2532,
+    "viewport_width": 390,
+    "viewport_height": 844
+  },
+  {
+    "device_name": "Apple iPhone 13 mini",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Apple iPhone 13 Pro",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1",
+    "width": 1170,
+    "height": 2532,
+    "viewport_width": 390,
+    "viewport_height": 844
+  },
+  {
+    "device_name": "Apple iPhone 13 Pro Max",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1",
+    "width": 1284,
+    "height": 2778,
+    "viewport_width": 428,
+    "viewport_height": 926
+  },
+  {
+    "device_name": "Apple iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+    "width": 1170,
+    "height": 2532,
+    "viewport_width": 390,
+    "viewport_height": 844
+  },
+  {
+    "device_name": "Apple iPhone 14 Plus",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+    "width": 1284,
+    "height": 2778,
+    "viewport_width": 428,
+    "viewport_height": 926
+  },
+  {
+    "device_name": "Apple iPhone 14 Pro",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+    "width": 1179,
+    "height": 2556,
+    "viewport_width": 393,
+    "viewport_height": 852
+  },
+  {
+    "device_name": "Apple iPhone 14 Pro Max",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+    "width": 1290,
+    "height": 2796,
+    "viewport_width": 430,
+    "viewport_height": 932
+  },
+  {
+    "device_name": "Apple iPhone 15",
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1",
+    "width": 1179,
+    "height": 2556,
+    "viewport_width": 393,
+    "viewport_height": 852
+  },
+  {
+    "device_name": "Apple iPhone 15 Plus",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1",
+    "width": 1290,
+    "height": 2796,
+    "viewport_width": 430,
+    "viewport_height": 932
+  },
+  {
+    "device_name": "Apple iPhone 15 Pro",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1",
+    "width": 1179,
+    "height": 2556,
+    "viewport_width": 393,
+    "viewport_height": 852
+  },
+  {
+    "device_name": "Apple iPhone 15 Pro Max",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1",
+    "width": 1290,
+    "height": 2796,
+    "viewport_width": 430,
+    "viewport_height": 932
+  },
+  {
+    "device_name": "Apple iPhone 6s",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E233 Safari/601.1",
+    "width": 750,
+    "height": 1334,
+    "viewport_width": 375,
+    "viewport_height": 667
+  },
+  {
+    "device_name": "Apple iPhone 6s Plus",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E233 Safari/601.1",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 414,
+    "viewport_height": 736
+  },
+  {
+    "device_name": "Apple iPhone 7",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E277 Safari/602.1",
+    "width": 750,
+    "height": 1334,
+    "viewport_width": 375,
+    "viewport_height": 667
+  },
+  {
+    "device_name": "Apple iPhone 7 Plus",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E277 Safari/602.1",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 414,
+    "viewport_height": 736
+  },
+  {
+    "device_name": "Apple iPhone 8",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+    "width": 750,
+    "height": 1334,
+    "viewport_width": 375,
+    "viewport_height": 667
+  },
+  {
+    "device_name": "Apple iPhone 8 Plus",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 414,
+    "viewport_height": 736
+  },
+  {
+    "device_name": "Apple iPhone SE",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "width": 640,
+    "height": 1136,
+    "viewport_width": 320,
+    "viewport_height": 568
+  },
+  {
+    "device_name": "Apple iPhone X",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+    "width": 1125,
+    "height": 2436,
+    "viewport_width": 375,
+    "viewport_height": 812
+  },
+  {
+    "device_name": "Apple iPhone XR",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1",
+    "width": 828,
+    "height": 1792,
+    "viewport_width": 414,
+    "viewport_height": 896
+  },
+  {
+    "device_name": "Apple iPhone XS Max",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1",
+    "width": 1242,
+    "height": 2688,
+    "viewport_width": 414,
+    "viewport_height": 896
+  },
+  {
+    "device_name": "Google Pixel",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; Pixel Build/OPR6.170623.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 412,
+    "viewport_height": 732
+  },
+  {
+    "device_name": "Google Pixel 2",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.5534.1344 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 412,
+    "viewport_height": 732
+  },
+  {
+    "device_name": "Google Pixel 2 XL",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; Pixel 2 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2880,
+    "viewport_width": 412,
+    "viewport_height": 823
+  },
+  {
+    "device_name": "Google Pixel 3",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2160,
+    "viewport_width": 393,
+    "viewport_height": 786
+  },
+  {
+    "device_name": "Google Pixel 3 XL",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.129 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2960,
+    "viewport_width": 412,
+    "viewport_height": 846
+  },
+  {
+    "device_name": "Google Pixel 3a",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 3a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2220,
+    "viewport_width": 393,
+    "viewport_height": 808
+  },
+  {
+    "device_name": "Google Pixel 3a XL",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 3a XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2160,
+    "viewport_width": 412,
+    "viewport_height": 823
+  },
+  {
+    "device_name": "Google Pixel 4",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2280,
+    "viewport_width": 393,
+    "viewport_height": 830
+  },
+  {
+    "device_name": "Google Pixel 4 XL",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.129 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3040,
+    "viewport_width": 412,
+    "viewport_height": 869
+  },
+  {
+    "device_name": "Google Pixel 4a",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Google Pixel 5",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Google Pixel XL",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; Pixel XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 412,
+    "viewport_height": 732
+  },
+  {
+    "device_name": "Honor 6X",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.0; BLN-L24 Build/HONORBLN-L24) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Honor 7X",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; BND-AL10 Build/HONORBND-AL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.123 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2160,
+    "viewport_width": 360,
+    "viewport_height": 720
+  },
+  {
+    "device_name": "Honor 8X",
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 8.0.0; en-US; PRA-AL00X Build/HONORPRA-AL00X) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.3.8.1305 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Honor 9X",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL10 Build/HONORLLD-AL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.85 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "HTC Desire 19s",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; HTC Desire 19s Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1520,
+    "viewport_width": 360,
+    "viewport_height": 760
+  },
+  {
+    "device_name": "HTC One",
+    "user_agent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC One Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "HTC One M8",
+    "user_agent": "Mozilla/5.0 (Linux; Android 4.4.2; HTC One M8D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "HTC One M9",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.0; HTC One M9 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "HTC U Ultra",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; HTC U Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.66 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "HTC U11",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; HTC 2PZC100 Build/OPR6.170623.013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "HTC U11+",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; HTC U11 plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2880,
+    "viewport_width": 360,
+    "viewport_height": 720
+  },
+  {
+    "device_name": "HTC U12+",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; HTC 2Q55300 Build/PQ2A.190205.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2880,
+    "viewport_width": 360,
+    "viewport_height": 720
+  },
+  {
+    "device_name": "HTC Wildfire X",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; HTC Wildfire X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1520,
+    "viewport_width": 360,
+    "viewport_height": 760
+  },
+  {
+    "device_name": "Huawei Mate 10 Lite",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; HTC Wildfire X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2160,
+    "viewport_width": 360,
+    "viewport_height": 720
+  },
+  {
+    "device_name": "Huawei Mate 20 Lite",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SNE-LX1 Build/HUAWEISNE-L01; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.50 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Huawei Mate 20 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; LYA-TL00 Build/HUAWEILYA-TL00L; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3120,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Huawei Mate 30",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; TAS-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Huawei Mate 30 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; LIO-AL00 Build/HUAWEILIO-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36",
+    "width": 1176,
+    "height": 2400,
+    "viewport_width": 392,
+    "viewport_height": 800
+  },
+  {
+    "device_name": "Huawei MatePad Pro",
+    "user_agent": "Mozilla/5.0 (Linux; arm_64; Android 12; GOT-AL09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.5.60.01 Safari/537.36",
+    "width": 2560,
+    "height": 1600,
+    "viewport_width": 1280,
+    "viewport_height": 800
+  },
+  {
+    "device_name": "Huawei Nova 6",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HarmonyOS; WLZ-AL10; HMSCore 6.10.0.312) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 HuaweiBrowser/13.0.4.321 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 360,
+    "viewport_height": 800
+  },
+  {
+    "device_name": "Huawei Nova 7 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; JER-TN10) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/89.0.4389.105 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Huawei Nova 7 SE",
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 10; CDY-AN00 Build/HUAWEICDY-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/10.3 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 360,
+    "viewport_height": 800
+  },
+  {
+    "device_name": "Huawei Nova 7i",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; JNY-LX2 Build/HUAWEIJNY-L02) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.64 HuaweiBrowser/50.50.50.6 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2310,
+    "viewport_width": 360,
+    "viewport_height": 770
+  },
+  {
+    "device_name": "Huawei P10 Plus",
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 9; zh-cn; VKY-AL00 Build/HUAWEIVKY-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/10.1 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Huawei P20 lite",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; ANE-LX1 Build/HUAWEIANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2280,
+    "viewport_width": 360,
+    "viewport_height": 760
+  },
+  {
+    "device_name": "Huawei P20 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; CLT-L29 Build/HUAWEICLT-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36 OPR/48.1.2331.132804",
+    "width": 1080,
+    "height": 2240,
+    "viewport_width": 360,
+    "viewport_height": 747
+  },
+  {
+    "device_name": "Huawei P30",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELE-AL00 Build/HUAWEIELE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.64 HuaweiBrowser/10.0.1.336 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Huawei P30 Lite",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; MAR-TL00 Build/HUAWEIMAR-TL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.156 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2312,
+    "viewport_width": 360,
+    "viewport_height": 771
+  },
+  {
+    "device_name": "Huawei P30 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; VOG-L09 Build/HUAWEIVOG-L09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.96 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ANA-LX4; HMSCore 6.1.0.314) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 HuaweiBrowser/11.1.4.302 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "Huawei P40 Lite",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; JNY-LX1 Build/HUAWEIJNY-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/265.0.0.61.103;]",
+    "width": 1080,
+    "height": 2310,
+    "viewport_width": 360,
+    "viewport_height": 770
+  },
+  {
+    "device_name": "Huawei P40 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Mobile Safari/537.36",
+    "width": 1200,
+    "height": 2640,
+    "viewport_width": 400,
+    "viewport_height": 880
+  },
+  {
+    "device_name": "Huawei P8 Lite (2017)",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; PRA-LX1 Build/HUAWEIPRA-LX1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Huawei P9, P9 Lite",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.0; EVA-L09 Build/HUAWEIEMUI-EVA-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Huawei Y9 Prime",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; STK-L21 Build/HUAWEISTK-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "LG G3",
+    "user_agent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-AS990) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "LG G4",
+    "user_agent": "Mozilla/5.0 (Linux; Android 5.1.1; LG-H815 Build/LMY48Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.100 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "LG G5",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.0; LGAS992) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "LG G6",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.0; LG-LS993) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2880,
+    "viewport_width": 360,
+    "viewport_height": 720
+  },
+  {
+    "device_name": "LG G7 Fit",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; LM-Q850) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3120,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "LG G7 One",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; LM-Q910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3120,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "LG G8 ThinQ",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; LM-G820) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3120,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "LG G8X ThinQ",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; 901LG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "LG K10",
+    "user_agent": "Mozilla/5.0 (Linux; Android 5.1.1; LG-F670K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1280,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "LG K11",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; LM-X410(FG) Build/PKQ1.190522.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1280,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "LG K20 (2019)",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.0; VS501 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36",
+    "width": 480,
+    "height": 960,
+    "viewport_width": 320,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "LG K30",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; LM-X320) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1280,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "LG K40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; LM-X420 Build/PKQ1.190302.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36 GSA/10.90.16.21.arm",
+    "width": 720,
+    "height": 1440,
+    "viewport_width": 360,
+    "viewport_height": 720
+  },
+  {
+    "device_name": "LG K50",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; LM-X520) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1520,
+    "viewport_width": 360,
+    "viewport_height": 760
+  },
+  {
+    "device_name": "LG K51S",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; LM-K510) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1600,
+    "viewport_width": 360,
+    "viewport_height": 800
+  },
+  {
+    "device_name": "LG Stylo 4",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; LM-Q710XM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2160,
+    "viewport_width": 360,
+    "viewport_height": 720
+  },
+  {
+    "device_name": "LG Stylo 5",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2160,
+    "viewport_width": 360,
+    "viewport_height": 720
+  },
+  {
+    "device_name": "LG Tribute Empire",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; LM-X220PM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.96 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1280,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "LG W30",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; LM-X440IM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1520,
+    "viewport_width": 360,
+    "viewport_height": 760
+  },
+  {
+    "device_name": "Microsoft Lumia 1020",
+    "user_agent": "Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; Microsoft; Lumia 1020) like Gecko",
+    "width": 768,
+    "height": 1280,
+    "viewport_width": 320,
+    "viewport_height": 480
+  },
+  {
+    "device_name": "Microsoft Lumia 1520",
+    "user_agent": "Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; Microsoft; Lumia 1520) like Gecko",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 432,
+    "viewport_height": 768
+  },
+  {
+    "device_name": "Microsoft Lumia 520",
+    "user_agent": "Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; Microsoft; Lumia 520) like Gecko",
+    "width": 480,
+    "height": 800,
+    "viewport_width": 320,
+    "viewport_height": 480
+  },
+  {
+    "device_name": "Microsoft Lumia 650",
+    "user_agent": "Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; Lumia 650) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1280,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Microsoft Lumia 925",
+    "user_agent": "Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; Lumia 925) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Mobile Safari/537.36 Edge/14.14393",
+    "width": 768,
+    "height": 1280,
+    "viewport_width": 320,
+    "viewport_height": 480
+  },
+  {
+    "device_name": "Microsoft Lumia 950 XL",
+    "user_agent": "Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; WebView/3.0; MicrosoftMDG; Lumia 950 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Mobile Safari/537.36 Edge/15.15254",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 411,
+    "viewport_height": 731
+  },
+  {
+    "device_name": "Motorola Moto G8",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; moto g(8)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1560,
+    "viewport_width": 360,
+    "viewport_height": 780
+  },
+  {
+    "device_name": "OnePlus 6",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ONEPLUS A6003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2280,
+    "viewport_width": 412,
+    "viewport_height": 869
+  },
+  {
+    "device_name": "OnePlus 6T",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ONEPLUS A6013) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4068.3 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 412,
+    "viewport_height": 892
+  },
+  {
+    "device_name": "OnePlus 7",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; GM1901) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 412,
+    "viewport_height": 892
+  },
+  {
+    "device_name": "OnePlus 7 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; GM1917) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3120,
+    "viewport_width": 412,
+    "viewport_height": 892
+  },
+  {
+    "device_name": "OnePlus 7T",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; HD1901) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.66 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 914
+  },
+  {
+    "device_name": "OnePlus 7T Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3120,
+    "viewport_width": 412,
+    "viewport_height": 892
+  },
+  {
+    "device_name": "OnePlus 8",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; IN2015) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 915
+  },
+  {
+    "device_name": "OnePlus 8 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; IN2025) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3168,
+    "viewport_width": 412,
+    "viewport_height": 906
+  },
+  {
+    "device_name": "OnePlus 8T",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; KB2003 Build/SKQ1.210216.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.5005.78 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 914
+  },
+  {
+    "device_name": "OnePlus 9",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; LE2115) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 915
+  },
+  {
+    "device_name": "OnePlus 9 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; LE2123) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.166 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3216,
+    "viewport_width": 412,
+    "viewport_height": 919
+  },
+  {
+    "device_name": "OnePlus Nord",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 915
+  },
+  {
+    "device_name": "Samsung Galaxy A30",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A305F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/81.0.4044.138 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 412,
+    "viewport_height": 892
+  },
+  {
+    "device_name": "Samsung Galaxy A31",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-A315F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 915
+  },
+  {
+    "device_name": "Samsung Galaxy A32",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-A326B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 915
+  },
+  {
+    "device_name": "Samsung Galaxy A50",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A505F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 Chrome/87.0.3396.87 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 412,
+    "viewport_height": 892
+  },
+  {
+    "device_name": "Samsung Galaxy A51",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-A516B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 915
+  },
+  {
+    "device_name": "Samsung Galaxy A6s",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-G6200) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2160,
+    "viewport_width": 360,
+    "viewport_height": 720
+  },
+  {
+    "device_name": "Samsung Galaxy A70s",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-A707F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 914
+  },
+  {
+    "device_name": "Samsung Galaxy A71",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-A715F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 914
+  },
+  {
+    "device_name": "Samsung Galaxy Fold",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-F900W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36",
+    "width": 1536,
+    "height": 2152,
+    "viewport_width": 768,
+    "viewport_height": 1076
+  },
+  {
+    "device_name": "Samsung Galaxy J7 Prime 2",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G611M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 412,
+    "viewport_height": 732
+  },
+  {
+    "device_name": "Samsung Galaxy Note 3",
+    "user_agent": "Mozilla/5.0 (Linux; Android 4.3; SM-N9005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Samsung Galaxy Note 4",
+    "user_agent": "Mozilla/5.0 (Linux; Android 4.4; SM-N910F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Samsung Galaxy Note 8",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.1; SM-N950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2960,
+    "viewport_width": 360,
+    "viewport_height": 740
+  },
+  {
+    "device_name": "Samsung Galaxy Note 9",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.1; SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2960,
+    "viewport_width": 360,
+    "viewport_height": 740
+  },
+  {
+    "device_name": "Samsung Galaxy Note10",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-N971U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2280,
+    "viewport_width": 412,
+    "viewport_height": 869
+  },
+  {
+    "device_name": "Samsung Galaxy Note10+",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-N975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3040,
+    "viewport_width": 412,
+    "viewport_height": 869
+  },
+  {
+    "device_name": "Samsung Galaxy Note 20",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-N981U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 915
+  },
+  {
+    "device_name": "Samsung Galaxy Note20 Ultra",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-N986U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3088,
+    "viewport_width": 412,
+    "viewport_height": 883
+  },
+  {
+    "device_name": "Samsung Galaxy S10",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3040,
+    "viewport_width": 360,
+    "viewport_height": 760
+  },
+  {
+    "device_name": "Samsung Galaxy S10 Lite",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G770F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 914
+  },
+  {
+    "device_name": "Samsung Galaxy S10+",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G9750) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3040,
+    "viewport_width": 412,
+    "viewport_height": 869
+  },
+  {
+    "device_name": "Samsung Galaxy S20",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3200,
+    "viewport_width": 360,
+    "viewport_height": 800
+  },
+  {
+    "device_name": "Samsung Galaxy S20 FE",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G781B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36 OPR/61.1.3076.56625",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 412,
+    "viewport_height": 914
+  },
+  {
+    "device_name": "Samsung Galaxy S20 Ultra",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Galaxy S20 Ultra) AppleWebKit/537.44 (KHTML, like Gecko) Chrome/112.0.5983.105 Mobile Safari/537.44",
+    "width": 1440,
+    "height": 3200,
+    "viewport_width": 412,
+    "viewport_height": 915
+  },
+  {
+    "device_name": "Samsung Galaxy S20+",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-G985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3200,
+    "viewport_width": 384,
+    "viewport_height": 854
+  },
+  {
+    "device_name": "Samsung Galaxy S21 Ultra 5G",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-G998B Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.28 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 3200,
+    "viewport_width": 384,
+    "viewport_height": 854
+  },
+  {
+    "device_name": "Samsung Galaxy S6",
+    "user_agent": "Mozilla/5.0 (Linux; Android 5.0; SM-G920F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Samsung Galaxy S6 edge",
+    "user_agent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G925R6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Samsung Galaxy S7",
+    "user_agent": "Mozilla/5.0 (Linux; Android 4.1; SM-G930 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Samsung Galaxy S7 Edge",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G935A) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2560,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Samsung Galaxy S8",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.2 Chrome/116.0.5845.115 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2960,
+    "viewport_width": 360,
+    "viewport_height": 740
+  },
+  {
+    "device_name": "Samsung Galaxy S8+",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G955F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2960,
+    "viewport_width": 360,
+    "viewport_height": 740
+  },
+  {
+    "device_name": "Samsung Galaxy S9",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G965F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/119.0.6045.163 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2960,
+    "viewport_width": 360,
+    "viewport_height": 740
+  },
+  {
+    "device_name": "Samsung Galaxy S9+",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G965F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/119.0.6045.67 Mobile Safari/537.36",
+    "width": 1440,
+    "height": 2960,
+    "viewport_width": 360,
+    "viewport_height": 740
+  },
+  {
+    "device_name": "Samsung Galaxy Z Flip",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-F700U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2636,
+    "viewport_width": 412,
+    "viewport_height": 1004
+  },
+  {
+    "device_name": "Samsung Galaxy Z Fold2",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-F9160) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36",
+    "width": 1768,
+    "height": 2208,
+    "viewport_width": 884,
+    "viewport_height": 1104
+  },
+  {
+    "device_name": "Sony Xperia 1",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; J9110) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36",
+    "width": 1644,
+    "height": 3840,
+    "viewport_width": 411,
+    "viewport_height": 960
+  },
+  {
+    "device_name": "Sony Xperia 10",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; I4113 Build/53.1.A.3.105; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2520,
+    "viewport_width": 360,
+    "viewport_height": 840
+  },
+  {
+    "device_name": "Sony Xperia 10 Plus",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; I4213) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2520,
+    "viewport_width": 360,
+    "viewport_height": 840
+  },
+  {
+    "device_name": "Sony Xperia 5",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; J8210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2520,
+    "viewport_width": 360,
+    "viewport_height": 840
+  },
+  {
+    "device_name": "Sony Xperia C4",
+    "user_agent": "Mozilla/5.0 (Linux; Android 6.0; E5303 Build/27.3.A.0.173; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 540,
+    "viewport_height": 960
+  },
+  {
+    "device_name": "Sony Xperia L4",
+    "user_agent": "Mozilla/5.0 (Linux; Android 9; XQ-AD52 Build/57.0.A.2.291; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.131 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1680,
+    "viewport_width": 360,
+    "viewport_height": 840
+  },
+  {
+    "device_name": "Sony Xperia X",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; F5121 Build/34.4.A.2.70) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.81 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Sony Xperia XZ",
+    "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; F8332 Build/41.3.A.2.171) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.141 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Sony Xperia Z Ultra",
+    "user_agent": "Mozilla/5.0 (Linux; Android 4.4.2; SOL24 Build/14.3.C.0.300) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 540,
+    "viewport_height": 960
+  },
+  {
+    "device_name": "Sony Xperia Z2",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Xperia Z2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Sony Xperia Z3",
+    "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; D6653 Build/23.5.A.1.291) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Sony Xperia Z5",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.1.1; E6603) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 OPR/62.2.3146.57547",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Vivo Y20",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; V2027 Build/SP1A.210812.003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36",
+    "width": 720,
+    "height": 1600,
+    "viewport_width": 385,
+    "viewport_height": 854
+  },
+  {
+    "device_name": "Xiaomi Mi 10",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Xiaomi Mi 10 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Xiaomi Mi 10T",
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 11; pl-pl; Mi 10T Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.15.0-gn",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 393,
+    "viewport_height": 873
+  },
+  {
+    "device_name": "Xiaomi Mi 10T Pro",
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 11; de-de; Mi 10T Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.5.1-gn  ",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 393,
+    "viewport_height": 873
+  },
+  {
+    "device_name": "Xiaomi Mi 3",
+    "user_agent": "Mozilla/5.0 (Linux; Android 4.4.4; MI 3 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 1920,
+    "viewport_width": 360,
+    "viewport_height": 640
+  },
+  {
+    "device_name": "Xiaomi Mi 6",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.1.1; MI 6 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.116 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2244,
+    "viewport_width": 393,
+    "viewport_height": 816
+  },
+  {
+    "device_name": "Xiaomi Mi 8 SE",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2244,
+    "viewport_width": 393,
+    "viewport_height": 816
+  },
+  {
+    "device_name": "Xiaomi Mi 8",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.51 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2244,
+    "viewport_width": 393,
+    "viewport_height": 817
+  },
+  {
+    "device_name": "Xiaomi Mi 8 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; MI 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2244,
+    "viewport_width": 393,
+    "viewport_height": 817
+  },
+  {
+    "device_name": "Xiaomi Mi 9 Lite",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Mi 9 Lite) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Xiaomi Mi 9 SE",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Mi 9 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.89 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Xiaomi Mi 9",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; MI 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.38 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Xiaomi Redmi Note 7",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Xiaomi Redmi Note 8",
+    "user_agent": "Mozilla/5.0 (Linux; Android 7.1.2; Redmi Note 8 Build/NZH54D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.117 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Xiaomi Redmi Note 8 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 10; en-us; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.147 Mobile Safari/537.36 XiaoMi/MiuiBrowser/14.8.12",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Xiaomi Redmi Note 9",
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 10; ru-ru; Redmi Note 9 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.147 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.10.3-gn",
+    "width": 1080,
+    "height": 2340,
+    "viewport_width": 393,
+    "viewport_height": 851
+  },
+  {
+    "device_name": "Xiaomi Redmi Note 9 Pro",
+    "user_agent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Mobile Safari/537.36",
+    "width": 1080,
+    "height": 2400,
+    "viewport_width": 393,
+    "viewport_height": 873
+  }
+]

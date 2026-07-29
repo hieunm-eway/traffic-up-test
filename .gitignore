@@ -1,0 +1,16 @@
+venv/
+.venv/
+.DS_Store
+.python-version
+chrome-for-testing/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Secrets — không commit
+.env
+config.ini
+
+# Binary lớn — dùng Chrome for Testing thay thế
+undetected_chromedriver
+.chromedriver-mac-arm64/

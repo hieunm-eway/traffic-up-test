@@ -1,0 +1,26 @@
+# macOS dev only — không cần trong Docker (base image đã có Chrome 120)
+chrome-for-testing/
+undetected_chromedriver/
+.chromedriver-mac-arm64/
+
+# Virtual env — sẽ install lại trong image
+venv/
+.venv/
+
+# Secrets — truyền qua env khi docker run, không bake vào image
+.env
+# config.ini
+
+# Git
+.git/
+
+# Cache / compiled
+__pycache__/
+**/__pycache__/
+*.pyc
+.DS_Store
+.python-version
+
+# Dev / docs — không cần trong production image
+test_*.py
+PROJECT_DESCRIPTION.md
