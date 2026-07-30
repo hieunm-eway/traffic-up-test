@@ -6,6 +6,8 @@ chrome-for-testing/
 __pycache__/
 **/__pycache__/
 *.pyc
+**/__MACOSX/
+__MACOSX/
 
 # Secrets — không commit
 .env
