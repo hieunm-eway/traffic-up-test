@@ -12,8 +12,13 @@ config.read('config.ini')
 redis_config = config['REDIS']
 redis_host = os.getenv('REDIS_HOST', redis_config['HOST'])
 redis_port = os.getenv('REDIS_PORT', redis_config['PORT'])
-redis_cli = redis.Redis(host=redis_host, port=redis_port, decode_responses=True)
-
+redis_cli = redis.Redis(host=redis_host, port=redis_port, db=0,decode_responses=True)
+forward_proxy_redis_cli = redis.Redis(
+    host=redis_host,
+    port=redis_port,
+    db=1,
+    decode_responses=True
+)
 
 def get_remain_traffic(shop_id):
     try:
@@ -66,7 +71,7 @@ def get_key_proxy_redis(geo: str = "") -> Optional[str]:
         proxy_keys = []
         cursor = 0
         while True:
-            cursor, keys = redis_cli.scan(
+            cursor, keys = forward_proxy_redis_cli.scan(
                 cursor,
                 match=pattern,
                 count=50  # Lấy 50 key mỗi lần để tránh quá tải
@@ -99,7 +104,7 @@ def get_key_proxy_redis(geo: str = "") -> Optional[str]:
 
 def get_proxy_redis(key):
     try:
-        return redis_cli.get(key)
+        return forward_proxy_redis_cli.get(key)
     except redis.exceptions.ResponseError:
         return 0
 
