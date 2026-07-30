@@ -1,9 +1,0 @@
-services:
-  traffic-up:
-    build: .
-    container_name: traffic-up
-    restart: unless-stopped
-    environment:
-      REDIS_HOST: host.docker.internal
-      REDIS_PORT: 6379
-      HEADLESS: "1"
