@@ -4,6 +4,8 @@ import os
 from dotenv import load_dotenv
 from pymongo import MongoClient
 import logging
+import re
+
 
 load_dotenv()
 
