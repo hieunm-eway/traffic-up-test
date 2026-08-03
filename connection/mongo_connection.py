@@ -18,9 +18,9 @@ campaign_setup_collection_name = os.getenv(
 campaign_name = os.getenv('CAMPAIGN_NAME', mongodb_config['CAMPAIGN_NAME'])
 mongo_client = MongoClient(
     mongo_uri,
-    serverSelectionTimeoutMS=120000, 
-    connectTimeoutMS=60000,          
-    socketTimeoutMS=60000,        
+    serverSelectionTimeoutMS=60000, 
+    connectTimeoutMS=40000,          
+    socketTimeoutMS=40000,        
 )
 traffic_buff_db = mongo_client[mongo_database]
 campaign_setup_collection = traffic_buff_db[campaign_setup_collection_name]
