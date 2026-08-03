@@ -3,15 +3,11 @@ from bson.regex import Regex
 import os
 from dotenv import load_dotenv
 from pymongo import MongoClient
-import logging
 
 load_dotenv()
 
 config = configparser.ConfigParser()
 config.read('config.ini')
-
-logging.basicConfig(level=logging.DEBUG)
-logging.getLogger("pymongo").setLevel(logging.DEBUG)
 
 # Set up MongoDB client
 mongodb_config = config['MONGODB']
@@ -20,7 +16,6 @@ mongo_database = os.getenv('MONGO_DATABASE', mongodb_config['MONGO_DATABASE'])
 campaign_setup_collection_name = os.getenv(
     'COLLECTION_CAMPAIGN_SETUP', mongodb_config['COLLECTION_CAMPAIGN_SETUP'])
 campaign_name = os.getenv('CAMPAIGN_NAME', mongodb_config['CAMPAIGN_NAME'])
-
 mongo_client = MongoClient(mongo_uri)
 traffic_buff_db = mongo_client[mongo_database]
 campaign_setup_collection = traffic_buff_db[campaign_setup_collection_name]
