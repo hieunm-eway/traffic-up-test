@@ -12,11 +12,13 @@ config.read('config.ini')
 redis_config = config['REDIS']
 redis_host = os.getenv('REDIS_HOST', redis_config['HOST'])
 redis_port = os.getenv('REDIS_PORT', redis_config['PORT'])
-redis_cli = redis.Redis(host=redis_host, port=redis_port, db=0,decode_responses=True)
+redis_upstream_db = os.getenv('UPSTREAM_DB', 0)
+redis_forward_db = os.getenv('FORWARD_DB', 1)
+redis_cli = redis.Redis(host=redis_host, port=redis_port, db=redis_upstream_db,decode_responses=True)
 forward_proxy_redis_cli = redis.Redis(
     host=redis_host,
     port=redis_port,
-    db=1,
+    db=redis_forward_db,
     decode_responses=True
 )
 
