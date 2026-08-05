@@ -570,6 +570,18 @@ chrome.webRequest.onAuthRequired.addListener(
 
 
 def run(campaign):
+    campaign_id = campaign.get("campaign_id")
+    shop_id = campaign.get("shop_id")
+
+    start_datetime = datetime.now()
+    start_time = time.time()
+
+    logging.info(
+        f"[START] Campaign={campaign_id}, "
+        f"Shop={shop_id}, "
+        f"Thread={threading.get_ident()}, "
+        f"Start={start_datetime.strftime('%Y-%m-%d %H:%M:%S')}"
+    )
     if get_remain_traffic(campaign.get('shop_id')) <= 0:
         logging.info(f"Shop ID: {campaign.get('shop_id')} has no traffic")
         return None
