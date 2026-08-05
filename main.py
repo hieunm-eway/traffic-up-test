@@ -573,14 +573,14 @@ def run(campaign):
     campaign_id = campaign.get("campaign_id")
     shop_id = campaign.get("shop_id")
 
-    start_datetime = datetime.now()
-    start_time = time.time()
+    campaign_start_dt = datetime.now()
+    campaign_start = time.time()
 
     logging.info(
         f"[START] Campaign={campaign_id}, "
         f"Shop={shop_id}, "
         f"Thread={threading.get_ident()}, "
-        f"Start={start_datetime.strftime('%Y-%m-%d %H:%M:%S')}"
+        f"Start={campaign_start_dt.strftime('%Y-%m-%d %H:%M:%S')}"
     )
     if get_remain_traffic(campaign.get('shop_id')) <= 0:
         logging.info(f"Shop ID: {campaign.get('shop_id')} has no traffic")
@@ -667,11 +667,11 @@ def run(campaign):
 
     logging.info(f"Chrome version_main={'auto' if CHROME_VERSION is None else CHROME_VERSION}, headless={USE_HEADLESS}")
 
-    start_time = time.time()
     chrome_driver = None
     try:
+        chrome_start = time.time()
         chrome_driver = _start_chrome(make_options)
-        logging.info(f"Chrome ready ({round(time.time() - start_time, 2)}s)")
+        logging.info(f"Chrome ready ({time.time() - chrome_start:.2f}s)")
 
         chrome_driver.set_page_load_timeout(60)
 
@@ -771,11 +771,30 @@ def run(campaign):
                 action_scroll(chrome_driver)
             time.sleep(action['delay'])
 
-        logging.info(f"Campaign finished OK. Total time: {round(time.time() - start_time, 2)}s")
+        campaign_end_dt = datetime.now()
+        campaign_duration = time.time() - campaign_start
+
+        logging.info(
+            f"[SUCCESS] Campaign={campaign_id}, "
+            f"Shop={shop_id}, "
+            f"Thread={threading.get_ident()}, "
+            f"End={campaign_end_dt.strftime('%Y-%m-%d %H:%M:%S')}, "
+            f"Duration={campaign_duration:.2f}s"
+        )
 
     except Exception as e:
         error_message = str(e).split('\n')[0]
-        logging.error(f"Campaign failed. Time: {round(time.time() - start_time, 2)}s, Error: {error_message}")
+        campaign_end_dt = datetime.now()
+        campaign_duration = time.time() - campaign_start
+
+        logging.error(
+            f"[FAILED] Campaign={campaign_id}, "
+            f"Shop={shop_id}, "
+            f"Thread={threading.get_ident()}, "
+            f"End={campaign_end_dt.strftime('%Y-%m-%d %H:%M:%S')}, "
+            f"Duration={campaign_duration:.2f}s, "
+            f"Error={error_message}"
+        )
         return False
     finally:
         force_quit_driver(chrome_driver)
