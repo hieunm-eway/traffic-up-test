@@ -673,7 +673,7 @@ def run(campaign):
         chrome_driver = _start_chrome(make_options)
         logging.info(f"Chrome ready ({time.time() - chrome_start:.2f}s)")
 
-        chrome_driver.set_page_load_timeout(60)
+        chrome_driver.set_page_load_timeout(45)
 
         # Inject stealth trước khi navigate bất kỳ URL nào
         apply_stealth(chrome_driver)
@@ -733,11 +733,11 @@ def run(campaign):
                 error_message = str(e).split('\n')[0]
                 if "ERR_PROXY_CONNECTION_FAILED" in error_message:
                     del_proxy_redis(key_proxy)
-                    logging.error(f"Proxy failed — removed from pool. Proxy: {proxy}, Time: {round(time.time() - start_time, 2)}s")
+                    logging.error(f"Proxy failed — removed from pool. Proxy: {proxy}, Time: {round(time.time() - chrome_start, 2)}s")
                 elif "ERR_TIMED_OUT" in error_message or "timeout" in error_message.lower():
-                    logging.error(f"Page load timeout. Proxy: {proxy}, Time: {round(time.time() - start_time, 2)}s")
+                    logging.error(f"Page load timeout. Proxy: {proxy}, Time: {round(time.time() - chrome_start, 2)}s")
                 else:
-                    logging.error(f"Navigation error. Time: {round(time.time() - start_time, 2)}s, Error: {error_message}")
+                    logging.error(f"Navigation error. Time: {round(time.time() - chrome_start, 2)}s, Error: {error_message}")
                 return None
 
         if chrome_driver is not None and is_error_page(chrome_driver):
@@ -914,6 +914,11 @@ def scheduler():
         for future in concurrent.futures.as_completed(futures):
             future.result()
 
+def startup_delay():
+    delay = random.randint(5, 20)
+    logging.info(f"Startup delay {delay}s")
+    time.sleep(delay)
 
 if __name__ == '__main__':
+    startup_delay()
     scheduler()
